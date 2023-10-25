@@ -46,10 +46,7 @@ ChatGPT：
 |  título  | Crie um título de um e-book sobre o tema de ITIL, o e-book é do nicho de Governança de TI, o título deve curto, me liste 5 variações de títulos                                                        |
 
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-| conteúdo | Faça um texto para ebook, com foco em ITIL, listando os principais pontos para serem aplicados na fase inicial de Governança de TI. {REGRAS}> Explique sempre de uma maneira simples > Deixe o texto enxuto > Sempre traga exemplos aplicaveis em contextos reais> Sempre deixe um título sugestivo por tópico                                                        |
+| conteúdo | Faça um texto para ebook, com foco em ITIL, listando os principais pontos para serem aplicados na fase inicial de Governança de TI. {REGRAS}> Explique sempre de uma maneira simples > Deixe o texto enxuto > Sempre traga exemplos aplicaveis em contextos reais> Sempre deixe um título sugestivo por tópico                                                        ||
 
 
 Midjourney：

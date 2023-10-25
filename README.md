@@ -2,7 +2,8 @@
 Projeto EBOOK Gerado por I.A.s
 
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".assets/github/assets/banner.png">
+    
 </p>
 
 

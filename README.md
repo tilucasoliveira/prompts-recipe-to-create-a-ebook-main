@@ -15,7 +15,8 @@ Projeto EBOOK Gerado por I.A.s
 
 <p align="center">
 <img 
-    src="./assets/capa.png"
+    src="./blob/main//assets/capa.png"
+
     width="400"  
 />
 </p>

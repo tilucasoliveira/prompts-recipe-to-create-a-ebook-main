@@ -48,7 +48,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | desenhe uma capa para um ebook com o tema Aplicando ITIL  na Fase inicial da  Governança de TI, essa capa não pode ter textos |
+| desenho da capa | desenhe uma capa para um ebook com o tema Aplicando ITIL  na Fase inicial da  Governança de TI, essa capa não pode ter textos |
 
 ## ✨ Features
 

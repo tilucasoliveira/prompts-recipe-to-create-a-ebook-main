@@ -15,7 +15,7 @@ Projeto EBOOK Gerado por I.A.s
 
 <p align="center">
 <img 
-    src="[./blob/main//assets/capa.png](https://github.com/tilucasoliveira/prompts-recipe-to-create-a-ebook-main/blob/main/assets/capa.jpg)"
+    src="./blob/main//assets/capa.png](https://github.com/tilucasoliveira/prompts-recipe-to-create-a-ebook-main/blob/main/assets/capa.jpg"
 
     width="400"  
 />

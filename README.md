@@ -83,4 +83,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ Criado por [Lucas Haigert Oliveira](https://github.com/)
+⌨️ Criado por [Lucas Haigert Oliveira](https://github.com/tilucasoliveira/)

@@ -27,7 +27,7 @@ Projeto EBOOK Gerado por I.A.s
 
 O projeto tem com objetivo, gerar um e-book digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/tilucasoliveira/prompts-recipe-to-create-a-ebook-main/blob/main/output/ebook%20-%20Aplicando_ITIL_Fase_Inicial_GOVTI%20-%20Output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 

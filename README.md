@@ -71,7 +71,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src=""
+      src="src="https://avatars.githubusercontent.com/u/8718560?v=4""
     />
     <p>&nbsp&nbsp&nbspLucas Haigert Oliveira<br>
     &nbsp&nbsp&nbsp

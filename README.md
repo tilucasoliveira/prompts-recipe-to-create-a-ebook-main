@@ -1,8 +1,7 @@
 # prompts-recipe-to-create-a-ebook-main
 Projeto EBOOK Gerado por I.A.s
 
-<p align="center">
- 
+<p align="center"> 
     <img src="https://github.com/tilucasoliveira/prompts-recipe-to-create-a-ebook-main/tree/main/assets/github/assets/banner.png" width="100" />
 </p>
 

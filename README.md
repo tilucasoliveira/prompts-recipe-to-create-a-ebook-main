@@ -1,7 +1,5 @@
 # prompts-recipe-to-create-a-ebook-main
 Projeto EBOOK Gerado por I.A.s
-
-
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
 </p>
@@ -53,7 +51,7 @@ ChatGPT：
 > Deixe o texto enxuto
 > Sempre traga exemplos aplicaveis em contextos reais
 > Sempre deixe um título sugestivo por tópico |
-
+|
 
 Midjourney：
 
@@ -82,8 +80,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src=""    />
-    <p>&nbsp&nbsp&nbspLucas Haigert Oliveira<br>
+      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+    />
+    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/tilucasoliveira/">
     GitHub</a>&nbsp;|&nbsp;
